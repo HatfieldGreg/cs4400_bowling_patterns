@@ -1,0 +1,6 @@
+c:\users\greg\documents\visual studio 2015\Projects\bowling3b\bowling3b\bin\Debug\bowling3b.exe.config
+C:\Users\Greg\Desktop\programming\bowling3b\bowling3b\bin\Debug\bowling3b.exe.config
+C:\Users\Greg\Desktop\programming\bowling3b\bowling3b\bin\Debug\bowling3b.exe
+C:\Users\Greg\Desktop\programming\bowling3b\bowling3b\bin\Debug\bowling3b.pdb
+C:\Users\Greg\Desktop\programming\bowling3b\bowling3b\obj\Debug\bowling3b.exe
+C:\Users\Greg\Desktop\programming\bowling3b\bowling3b\obj\Debug\bowling3b.pdb

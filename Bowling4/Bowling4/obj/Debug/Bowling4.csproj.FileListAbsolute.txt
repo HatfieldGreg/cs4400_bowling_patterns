@@ -1,0 +1,6 @@
+C:\Users\Greg\Desktop\programming\Bowling4\Bowling4\bin\Debug\Bowling4.exe.config
+C:\Users\Greg\Desktop\programming\Bowling4\Bowling4\bin\Debug\Bowling4.exe
+C:\Users\Greg\Desktop\programming\Bowling4\Bowling4\bin\Debug\Bowling4.pdb
+C:\Users\Greg\Desktop\programming\Bowling4\Bowling4\obj\Debug\Bowling4.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\programming\Bowling4\Bowling4\obj\Debug\Bowling4.exe
+C:\Users\Greg\Desktop\programming\Bowling4\Bowling4\obj\Debug\Bowling4.pdb

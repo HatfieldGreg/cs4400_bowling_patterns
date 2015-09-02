@@ -1,0 +1,6 @@
+C:\Users\Greg\Desktop\programming\Bowling5\Bowling5\bin\Debug\Bowling5.exe.config
+C:\Users\Greg\Desktop\programming\Bowling5\Bowling5\bin\Debug\Bowling5.exe
+C:\Users\Greg\Desktop\programming\Bowling5\Bowling5\bin\Debug\Bowling5.pdb
+C:\Users\Greg\Desktop\programming\Bowling5\Bowling5\obj\Debug\Bowling5.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\programming\Bowling5\Bowling5\obj\Debug\Bowling5.exe
+C:\Users\Greg\Desktop\programming\Bowling5\Bowling5\obj\Debug\Bowling5.pdb

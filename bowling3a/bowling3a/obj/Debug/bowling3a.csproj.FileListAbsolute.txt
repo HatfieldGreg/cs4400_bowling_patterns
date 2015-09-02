@@ -1,0 +1,7 @@
+c:\users\greg\documents\visual studio 2015\Projects\bowling3a\bowling3a\bin\Debug\bowling3a.exe.config
+C:\Users\Greg\Desktop\programming\bowling3a\bowling3a\bin\Debug\bowling3a.exe.config
+C:\Users\Greg\Desktop\programming\bowling3a\bowling3a\bin\Debug\bowling3a.exe
+C:\Users\Greg\Desktop\programming\bowling3a\bowling3a\bin\Debug\bowling3a.pdb
+C:\Users\Greg\Desktop\programming\bowling3a\bowling3a\obj\Debug\bowling3a.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\programming\bowling3a\bowling3a\obj\Debug\bowling3a.exe
+C:\Users\Greg\Desktop\programming\bowling3a\bowling3a\obj\Debug\bowling3a.pdb

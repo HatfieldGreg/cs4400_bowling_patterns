@@ -1,0 +1,6 @@
+C:\Users\Greg\Desktop\programming\bowling6b\bowling6b\bin\Debug\bowling6b.exe.config
+C:\Users\Greg\Desktop\programming\bowling6b\bowling6b\obj\Debug\bowling6b.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\programming\bowling6b\bowling6b\bin\Debug\bowling6b.exe
+C:\Users\Greg\Desktop\programming\bowling6b\bowling6b\bin\Debug\bowling6b.pdb
+C:\Users\Greg\Desktop\programming\bowling6b\bowling6b\obj\Debug\bowling6b.exe
+C:\Users\Greg\Desktop\programming\bowling6b\bowling6b\obj\Debug\bowling6b.pdb

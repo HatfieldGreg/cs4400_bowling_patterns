@@ -1,0 +1,10 @@
+C:\programming\bowling2\bowling2\bin\Debug\bowling2.exe
+C:\programming\bowling2\bowling2\bin\Debug\bowling2.pdb
+C:\programming\bowling2\bowling2\obj\Debug\bowling2.csprojResolveAssemblyReference.cache
+C:\programming\bowling2\bowling2\obj\Debug\bowling2.exe
+C:\programming\bowling2\bowling2\obj\Debug\bowling2.pdb
+C:\Users\Greg\Desktop\programming\bowling2\bowling2\obj\Debug\bowling2.exe
+C:\Users\Greg\Desktop\programming\bowling2\bowling2\obj\Debug\bowling2.pdb
+C:\Users\Greg\Desktop\programming\bowling2\bowling2\bin\Debug\bowling2.exe
+C:\Users\Greg\Desktop\programming\bowling2\bowling2\bin\Debug\bowling2.pdb
+C:\Users\Greg\Desktop\programming\bowling2\bowling2\obj\Debug\bowling2.csprojResolveAssemblyReference.cache

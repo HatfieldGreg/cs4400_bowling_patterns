@@ -1,0 +1,4 @@
+1.Open Command Console
+2.Change to directory where files are located(cd filedirectory)
+3.enter the following into the command prompt: type filename.txt|bowling3a.exe|bowling3b.exe
+4.results will display.
